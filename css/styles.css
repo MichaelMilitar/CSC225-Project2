@@ -1,0 +1,28 @@
+body {
+  background-color: ivory;
+  font-family: "Noto Sans KR", sans-serif;
+  overflow-x: hidden;
+}
+.jumbotron {
+  background: url(../images/hero.jpg) transparent center center no-repeat;
+  background-size: cover;
+  height: 100pv;
+}
+.img-fluid {
+  max-width: 60%;
+  height: auto;
+}
+.card {
+  max-width: 80%;
+  margin: auto;
+  float: none; 
+  margin-bottom: 10px; 
+}
+.card-footer {
+  align-self: flex-end;
+  background-color: white;;
+}
+.card-checkout{
+  background-color: ivory;
+  max-height: 10%;
+}
